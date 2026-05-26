@@ -1,4 +1,5 @@
 > _Academic project developed as part of a university course._
+___
 # Encrypt & Encode — 8086 Assembly (DOS)
 
 Program scris în assembly 8086 (TASM / MASM, `.MODEL SMALL`) care:
